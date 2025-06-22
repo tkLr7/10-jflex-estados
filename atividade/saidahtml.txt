@@ -1,0 +1,14 @@
+Número da patente: 7,022,487
+Data de publicação: April 4, 2006
+Título: Compositions and methods for regulating RNA stability using polypyrimidine
+     tract proteins
+Resumo: Compositions and methods for regulating CD154 gene expression are provided
+     that rely on the interaction of polypyrimidine tract proteins with the
+     3'-untranslated region of CD154.
+Reivindicações: 1.  A method for identifying agents that modulate the level or activity of a polypyrimidine tract protein comprising contacting a test cell, which contains a polypyrimidine
+tract protein and a cis-acting element of a CD154 3'-untranslated region operatively-linked to a nucleic acid sequence encoding a reporter, with an agent and detecting the expression of a product of the nucleic acid sequence encoding the reporter in the
+test cell. 2.  The method of claim 1, wherein a decrease in the expression of a product of the nucleic acid sequence encoding the reporter, in the test cell contacted with the agent relative to the expression of the product of the nucleic acid sequence
+encoding the reporter in a test cell not contacted with the agent, indicates that the agent causes a decrease in the level or activity of polypyrimidine tract protein of SEQ ID NO:2 or an increase in the level or activity of polypyrimidine tract protein
+isoform of SEQ ID NO:1. 3.  The method of claim 1, wherein an increase in the expression of a product of the nucleic acid sequence encoding the reporter in the test cell contacted with the agent relative to the expression of the product of the nucleic acid sequence
+encoding the reporter in a test cell not contacted with the agent, indicates that the agent causes an increase in the level or activity of polypyrimidine tract protein of SEQ ID NO:2 or a decrease in the level or activity of polypyrimidine tract protein
+isoform of SEQ ID NO:1.
